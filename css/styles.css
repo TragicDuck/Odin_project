@@ -1,0 +1,58 @@
+
+
+
+
+/* .Carbonara {
+    color:crimson;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: lighter;
+    text-align: center;
+}  /*
+/*  *=all elements .= class #=ID */
+
+/*use multiple selectors to minimise code fe 
+
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+*/
+
+/* img {
+    height: auto;
+    width: 500px;
+}
+/*its important to state hight and width to avoid page shuffle
+ issues when images load slowly both css and html elements together*/
+
+ *{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+ }
+
+ #top-bar{
+  background-color: rgb(30, 18, 18);
+  padding: 2rem;
+ }
+
+header {
+  background-color: rgb(37, 159, 253);
+  color: white;
+  padding: 1rem;
+  font-size: larger;
+}
+
+main {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+}
