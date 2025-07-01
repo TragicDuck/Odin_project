@@ -31,6 +31,7 @@
  *{
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
+  outline: 2px solid red;*/
  }
 
  #bottom-bar{
@@ -52,7 +53,7 @@ header {
   background-color: rgb(234, 153, 46);
   color: rgb(255, 255, 255);
   padding: 1rem;
-  !font-size: larger;
+  font-size: larger;
 }
 
 main {
